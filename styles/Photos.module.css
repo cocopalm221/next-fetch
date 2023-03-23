@@ -12,3 +12,8 @@
   width: 100%;
   text-align: center;
 }
+.photos li a {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
